@@ -165,6 +165,8 @@ export GOOGLE_API_KEY="your_api_key"
 
 - Public endpoint allows real-time interaction with the GenAI app
 
+---
+
 ## 📈 Learning Outcomes
 
 - By completing this project, I gained:
