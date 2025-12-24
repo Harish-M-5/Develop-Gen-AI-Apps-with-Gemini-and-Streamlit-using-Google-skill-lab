@@ -2,7 +2,7 @@
 
 
 ---
-#3# 🚀 Project Overview
+# 🚀 Project Overview
 
 - This project demonstrates how to build, integrate, and deploy Generative AI applications using Google Cloud Gemini, Vertex AI, Python SDK, Streamlit, and Cloud Run.
 
@@ -10,8 +10,7 @@
 
 ---
 
-##
-jupyter notebook 
+## jupyter notebook 
 https://github.com/d2l-ai/d2l-en-colab/blob/master/chapter_appendix-tools-for-deep-learning/jupyter.ipynb
 
 ---
