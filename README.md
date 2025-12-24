@@ -151,6 +151,13 @@ export GOOGLE_API_KEY="your_api_key"
 
 ---
 
+## ✨ Claim Badge link:
+
+🔗 https://www.credly.com/badges/ec1d3dcb-dd6d-4938-a81e-1487c14f3d36/public_url
+
+
+---
+
 ## 🚀 Deployment Highlights
 
 - Application containerized and deployed using Cloud Run
@@ -221,12 +228,12 @@ for providing high-quality, hands-on learning labs that bridge the gap between t
 
 ---
 
-## output
+## 📷 output
 <img width="1920" height="1080" alt="Screenshot 2025-12-19 180317" src="https://github.com/user-attachments/assets/261ca088-7379-4670-b913-4483dba9970d" />
 
 ---
 
-## Demo video:
+## 🎥 Demo video:
 
 
 https://github.com/user-attachments/assets/9262af84-68df-4ea0-a2bb-45fb72100ba7
