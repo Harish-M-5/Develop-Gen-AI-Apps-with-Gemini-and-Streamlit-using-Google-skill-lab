@@ -147,7 +147,7 @@ Deployment: Cloud Run
 
 Example:
 
-export GOOGLE_API_KEY="your_api_key"
+export GOOGLE_API_KEY="my_api_key"
 
 ---
 
