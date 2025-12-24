@@ -135,7 +135,7 @@ Platform: Google Cloud Vertex AI
 
 Deployment: Cloud Run 
 
---
+---
 
 ## 🔐 Security & Configuration
 
@@ -177,7 +177,7 @@ export GOOGLE_API_KEY="your_api_key"
 
 - Exposure to modern AI + cloud development practices
 
-  --- 
+--- 
 
 ## 👨‍💻 Ideal For
 
